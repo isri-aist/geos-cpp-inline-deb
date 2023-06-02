@@ -1,0 +1,5 @@
+libgeos++-inline-dev (3.10.2-1debian1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Pierre Gergondet <pierre.gergondet+ppa@gmail.com>  Fri, 02 Jun 2023 13:26:14 +0900

@@ -1,0 +1,12 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: geos
+Source: https://github.com/libgeos/geos
+
+Files: *
+Copyright: 2006-Present GEOS development team
+License: LGPL-2.1
+
+Files: debian/*
+Copyright: 2022 Pierre Gergondet <pierre.gergondet+ppa@gmail.com>
+License: GPL-2
+ See /usr/share/common-licenses/GPL-2
